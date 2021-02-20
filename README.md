@@ -6,3 +6,4 @@
 * адаптивная верстка,
 * классификация по БЭМ и организация файловой структуры в соответствии с Nested БЭМ.
 ## Ссылка на GitHub Pages
+[https://naumch1k.github.io/russian-travel/index.html](https://naumch1k.github.io/russian-travel/index.html)
