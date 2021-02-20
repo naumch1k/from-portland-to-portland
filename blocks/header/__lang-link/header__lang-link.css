@@ -1,0 +1,15 @@
+.header__lang-link {
+  font-size: 24px;
+  /* Знаю. В первую итерацию хочется сделать максимально по макету. 
+  Здесь получается коэффициент 1.666....67, до скольки допустимо округлять: до тысячных/сотых/десятых? */
+  line-height: 28px;
+  color: #fff;
+  text-decoration: none;
+}
+
+@media screen and (max-width: 767px) {
+  .header__lang-link {
+    font-size: 18px;
+    line-height: 20px;
+  }
+}

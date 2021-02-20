@@ -1,0 +1,19 @@
+.website__url-heading {
+  margin: 0 0 12px;
+  color: #aaa;
+  font-size: 12px;
+  line-height: 1.7;
+  letter-spacing: .2em;
+  /* Такое чувство, что на 1280 и 1024 макетах текст первого url-heading вертикально выровнен по-середине,
+  а остальные по нижнему краю. Решила не обращать внимание на отличие 1ого от остальных.
+  Пока лучшего способа выровнять понизу не нашла. */
+  position: relative;
+  top: 8px;
+}
+
+@media screen and (max-width: 1023px) {
+  .website__url-heading {
+    line-height: 1;
+    top: 0;
+  }
+}
