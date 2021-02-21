@@ -1,5 +1,0 @@
-/*Для скрытых заголовков секций Фотогалереи и Места, норм класс? или page__visually-hidden? */
-.visually-hidden {
-  position: absolute;
-  clip: rect(0 0 0 0);
-}

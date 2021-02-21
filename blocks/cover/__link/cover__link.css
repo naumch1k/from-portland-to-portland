@@ -28,6 +28,12 @@
 
 @media screen and (max-width: 767px) {
   .cover__link {
+    min-height: 340px;
+  }
+}
+
+@media screen and (max-width: 540px) {
+  .cover__link {
     min-height: 200px;
   }
 }
@@ -47,4 +53,3 @@
 .cover__link:hover:before {
   opacity: 0.8;
 }
-
