@@ -1,9 +1,20 @@
-# Проект 3: Путешествие по России
+# Portfolio project: "Russian Travel"
 
-## Описание проекта
-Учебный проект [Yandex Практикум](https://praktikum.yandex.ru/web/ "Курс Веб-разработчик"). Реализация изученных инструментов и методик, в том числе:
-* Grid Layout и Flexbox-верстка,
-* адаптивная верстка,
-* классификация по БЭМ и организация файловой структуры в соответствии с Nested БЭМ.
-## Ссылка на GitHub Pages
-[https://naumch1k.github.io/russian-travel/index.html](https://naumch1k.github.io/russian-travel/index.html)
+*Read this in other languages:* [RU]() 
+
+[GitHub Pages Link](https://naumch1k.github.io/russian-travel/index.html)
+
+## Description
+"Russian Travel" is a portfolio project created as a part of a study at [Yandex.Practicum](https://practicum.yandex.com/web/ "Web Development Program") - a single-page website with adaptive design about traveling across Russia
+
+## Technologies
+* Flexbox and Grid Layout
+* Adaptive design
+* BEM Methodology, File Structure and File Paths (Nested BEM)
+
+## Languages
+* HTML5
+* CSS3
+
+## To Do
+* Page language change feature
