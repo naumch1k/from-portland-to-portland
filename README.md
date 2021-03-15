@@ -1,6 +1,6 @@
 # Portfolio project: "Russian Travel"
 
-*Read this in other languages:* [RU]() 
+*Read this in other languages:* [RU](https://github.com/naumch1k/russian-travel/blob/master/README.RU.md) 
 
 [GitHub Pages Link](https://naumch1k.github.io/russian-travel/index.html)
 
