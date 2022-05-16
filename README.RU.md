@@ -1,8 +1,8 @@
 # Учебный проект: "From Portland to Portland"
 
-*Read this in other languages:* [EN](https://github.com/naumch1k/russian-travel/blob/master/README.md) 
+*Read this in other languages:* [EN](https://github.com/naumch1k/from-portland-to-portland/blob/lang-eng/README.md) 
 
-[Проектная работа на GitHub Pages](https://naumch1k.github.io/russian-travel/index.html)
+[Проектная работа на GitHub Pages](https://naumch1k.github.io/from-portland-to-portland/)
 
 ## Описание проекта
 Учебный проект [Yandex Практикум](https://praktikum.yandex.ru/web/ "Курс Веб-разработчик") - одностраничный сайт с адаптивным дизайном про внутренний туризм в США
@@ -14,9 +14,9 @@ HTML5 | CSS3 | БЭМ / файловая структура в соответс�
 
 ```bash
 # Клонируем репозиторий
-git clone https://github.com/naumch1k/russian-travel.git
+git clone https://github.com/naumch1k/from-portland-to-portland.git
 # Заходим в папку с проектом
-cd russian-travel
+cd from-portland-to-portland
 ```
 
 ## Планы по доработке проекта
